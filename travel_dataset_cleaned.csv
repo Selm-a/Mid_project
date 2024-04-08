@@ -1,0 +1,137 @@
+,Destination,Duration (days),Traveler age,Traveler gender,Traveler nationality,Accommodation type,Accommodation cost,Transportation type,Transportation cost,Age range,Destination Region,Traveler Region,Trip month,Total cost,Budget
+0,UK,7.0,35.0,Male,US American,Hotel,1200,Airplane,600,32 - 37,Europe,North America,5,1800,medium high
+1,Thailand,5.0,28.0,Female,Canadian,Luxury stay,800,Airplane,500,20 - 28,Africa,North America,6,1300,medium low
+2,Indonesia,7.0,45.0,Male,Korean,Luxury stay,1000,Airplane,700,38 +,Asia,Asia,7,1700,medium high
+3,USA,14.0,29.0,Female,UK,Hotel,2000,Airplane,1000,29 - 31,North America,Europe,8,3000,high
+4,Japan,7.0,26.0,Female,Vietnamese,Airbnb,700,Train,200,20 - 28,Asia,Asia,9,900,medium low
+5,France,5.0,42.0,Male,US American,Hotel,1500,Airplane,800,38 +,Europe,North America,10,2300,high
+6,Australia,10.0,33.0,Female,Australian,Hostel,500,Airplane,1200,32 - 37,Asia,Asia,11,1700,medium high
+7,Brazil,7.0,25.0,Male,Brazilian,Airbnb,900,Airplane,600,20 - 28,South America,South America,1,1500,medium high
+8,Netherlands,7.0,31.0,Female,Dutch,Hotel,1200,Train,200,29 - 31,Europe,Europe,2,1400,medium low
+9,UAE,7.0,39.0,Male,Emirati,Luxury stay,2500,Airplane,800,38 +,Middle east,Middle east,3,3300,high
+10,Mexico,7.0,27.0,Female,Mexican,Hotel,1000,Airplane,500,20 - 28,South America,South America,4,1500,medium high
+11,Spain,7.0,36.0,Male,Spanish,Airbnb,800,Train,100,32 - 37,Europe,Europe,5,900,medium low
+12,Hawaii,8.0,29.0,Female,Chinese,Luxury stay,3000,Airplane,1200,29 - 31,North America,Asia,6,4200,high
+13,Germany,9.0,48.0,Male,German,Hotel,1400,Airplane,700,38 +,Europe,Europe,7,2100,high
+14,Morocco,7.0,26.0,Female,Moroccan,Airbnb,600,Airplane,400,20 - 28,Africa,Africa,8,1000,medium low
+15,UK,7.0,32.0,Male,UK,Hotel,900,Train,150,32 - 37,Europe,Europe,9,1050,medium low
+16,France,9.0,30.0,Female,US American,Hotel,900,Airplane,400,29 - 31,Europe,North America,9,1300,medium low
+17,Indonesia,10.0,28.0,Male,Chinese,Luxury stay,1500,Airplane,700,20 - 28,Asia,Asia,8,2200,high
+18,UK,6.0,35.0,Female,UK,Hotel,1200,Train,150,32 - 37,Europe,Europe,7,1350,medium low
+19,Japan,10.0,45.0,Male,Japanese,Hotel,1200,Airplane,800,38 +,Asia,Asia,10,2000,medium high
+20,USA,5.0,27.0,Female,US American,Airbnb,600,Bus & other,100,20 - 28,North America,North America,11,700,low
+21,Australia,7.0,32.0,Male,Australian,Hotel,1000,Airplane,600,32 - 37,Asia,Asia,12,1600,medium high
+22,Italy,7.0,29.0,Female,Italian,Airbnb,700,Train,80,29 - 31,Europe,Europe,11,780,low
+23,Thailand,8.0,40.0,Male,Indian,Hostel,400,Airplane,500,38 +,Africa,Asia,9,900,medium low
+24,France,6.0,24.0,Female,Vietnamese,Hotel,1400,Train,100,20 - 28,Europe,Asia,12,1500,medium high
+25,Hawaii,9.0,34.0,Male,Korean,Luxury stay,2000,Airplane,800,32 - 37,North America,Asia,8,2800,high
+26,Spain,8.0,31.0,Female,Spanish,Hotel,1100,Train,150,29 - 31,Europe,Europe,10,1250,medium low
+27,Japan,8.0,30.0,Female,US American,Hotel,800,Airplane,500,29 - 31,Asia,North America,5,1300,medium low
+28,Thailand,7.0,45.0,Male,Canadian,Hostel,200,Train,150,38 +,Africa,North America,6,350,low
+29,France,9.0,25.0,Male,Korean,Airbnb,600,Car,300,20 - 28,Europe,Asia,7,900,medium low
+30,Australia,13.0,28.0,Female,UK,Hotel,1000,Car,500,20 - 28,Asia,Europe,9,1500,medium high
+31,Brazil,9.0,33.0,Female,Australian,Hostel,150,Bus & other,50,32 - 37,South America,Asia,9,200,low
+32,Greece,8.0,20.0,Male,US American,Airbnb,400,Airplane,600,20 - 28,Europe,North America,10,1000,medium low
+33,Egypt,7.0,37.0,Female,Canadian,Hotel,700,Train,100,32 - 37,Middle east,North America,11,800,low
+34,Mexico,10.0,42.0,Male,UK,Airbnb,500,Airplane,800,38 +,South America,Europe,1,1300,medium low
+35,Italy,6.0,31.0,Female,US American,Hostel,180,Train,120,29 - 31,Europe,North America,2,300,low
+36,Spain,8.0,27.0,Male,Korean,Hotel,900,Car,400,20 - 28,Europe,Asia,3,1300,medium low
+37,Canada,7.0,38.0,Female,Australian,Airbnb,350,Bus & other,75,38 +,North America,Asia,4,425,low
+38,France,7.0,25.0,Female,US American,Hotel,1400,Airplane,600,20 - 28,Europe,North America,6,2000,medium high
+39,Australia,7.0,33.0,Male,Canadian,Airbnb,800,Train,150,32 - 37,Asia,North America,1,950,medium low
+40,Japan,8.0,28.0,Female,Chinese,Hostel,500,Airplane,900,20 - 28,Asia,Asia,12,1400,medium low
+41,Mexico,7.0,45.0,Male,US American,Luxury stay,2200,Airplane,800,38 +,South America,North America,7,3000,high
+42,Brazil,7.0,30.0,Female,Brazilian,Hotel,1200,Airplane,700,29 - 31,South America,South America,11,1900,medium high
+43,UK,7.0,55.0,Male,UK,Airbnb,900,Train,100,38 +,Europe,Europe,3,1000,medium low
+44,Spain,7.0,27.0,Female,Spanish,Hostel,600,Airplane,600,20 - 28,Europe,Europe,8,1200,medium low
+45,USA,7.0,41.0,Male,US American,Hotel,1500,Airplane,500,38 +,North America,North America,9,2000,medium high
+46,Thailand,6.0,29.0,Female,Indian,Airbnb,500,Bus & other,50,29 - 31,Africa,Asia,5,550,low
+47,Canada,7.0,24.0,Male,Korean,Hostel,400,Train,150,20 - 28,North America,Asia,7,550,low
+48,Netherlands,8.0,31.0,Female,Dutch,Hotel,1100,Airplane,700,29 - 31,Europe,Europe,6,1800,medium high
+49,France,7.0,31.0,Female,Canadian,Hotel,1200,Train,300,29 - 31,Europe,North America,8,1500,medium high
+50,Japan,10.0,25.0,Male,US American,Hostel,500,Bus & other,100,20 - 28,Asia,North America,10,600,low
+51,Australia,7.0,27.0,Female,Korean,Airbnb,900,Car,200,20 - 28,Asia,Asia,11,1100,medium low
+52,USA,7.0,28.0,Female,Canadian,Hotel,1400,Airplane,800,20 - 28,North America,North America,12,2200,high
+53,Brazil,9.0,30.0,Male,Brazilian,Airbnb,800,Train,150,29 - 31,South America,South America,1,950,medium low
+54,Thailand,8.0,23.0,Female,Indian,Hostel,400,Bus & other,50,20 - 28,Africa,Asia,2,450,low
+55,UK,8.0,35.0,Male,UK,Hotel,1000,Train,200,32 - 37,Europe,Europe,3,1200,medium low
+56,Spain,8.0,29.0,Female,Spanish,Airbnb,700,Car,250,29 - 31,Europe,Europe,4,950,medium low
+57,South Korea,8.0,27.0,Male,Korean,Hostel,500,Bus & other,20,20 - 28,Asia,Asia,5,520,low
+58,USA,7.0,26.0,Male,Chinese,Hotel,1200,Car,300,20 - 28,North America,Asia,6,1500,medium high
+59,Italy,8.0,33.0,Female,Italian,Airbnb,800,Train,100,32 - 37,Europe,Europe,7,900,medium low
+60,France,6.0,35.0,Female,US American,Hotel,1200,Airplane,800,32 - 37,Europe,North America,7,2000,medium high
+61,Japan,7.0,28.0,Male,Japanese,Hostel,400,Train,300,20 - 28,Asia,Asia,9,700,low
+62,South Africa,9.0,29.0,Female,UK,Airbnb,800,Car,200,29 - 31,Africa,Europe,1,1000,medium low
+63,Australia,6.0,43.0,Male,Australian,Hotel,1500,Airplane,1200,38 +,Asia,Asia,6,2700,high
+64,Spain,7.0,31.0,Female,Spanish,Airbnb,900,Airplane,700,29 - 31,Europe,Europe,8,1600,medium high
+65,Indonesia,7.0,27.0,Male,US American,Luxury stay,2200,Airplane,1000,20 - 28,Asia,North America,2,3200,high
+66,France,6.0,39.0,Female,French,Hotel,1100,Train,200,38 +,Europe,Europe,5,1300,medium low
+67,USA,6.0,25.0,Male,US American,Airbnb,1000,Airplane,800,20 - 28,North America,North America,7,1800,medium high
+68,Thailand,8.0,33.0,Female,Indian,Hostel,300,Airplane,700,32 - 37,Africa,Asia,9,1000,medium low
+69,Italy,6.0,41.0,Male,Italian,Hotel,1300,Train,100,38 +,Europe,Europe,2,1400,medium low
+70,Indonesia,8.0,37.0,Female,UK,Luxury stay,1800,Airplane,1000,32 - 37,Asia,Europe,5,2800,high
+72,Indonesia,7.0,35.0,Female,Korean,Luxury stay,500,Airplane,800,32 - 37,Asia,Asia,8,1300,medium low
+73,Japan,8.0,29.0,Male,US American,Hotel,1000,Train,200,29 - 31,Asia,North America,1,1200,medium low
+74,Mexico,7.0,42.0,Female,Mexican,Luxury stay,800,Airplane,500,38 +,South America,South America,4,1300,medium low
+75,France,7.0,46.0,Male,UK,Hotel,1200,Airplane,700,38 +,Europe,Europe,6,1900,medium high
+76,South Africa,9.0,31.0,Male,South African,Hostel,400,Car,300,29 - 31,Africa,Africa,9,700,low
+77,Indonesia,7.0,25.0,Female,Taiwanese,Luxury stay,600,Airplane,700,20 - 28,Asia,Africa,11,1300,medium low
+78,Australia,7.0,38.0,Male,Australian,Hotel,900,Airplane,600,38 +,Asia,Asia,2,1500,medium high
+79,Thailand,7.0,27.0,Female,Korean,Hotel,400,Airplane,400,20 - 28,Africa,Asia,5,800,low
+80,USA,7.0,60.0,Male,US American,Hotel,1500,Airplane,1000,38 +,North America,North America,8,2500,high
+81,Thailand,7.0,32.0,Female,UK,Luxury stay,700,Airplane,800,32 - 37,Africa,Europe,1,1500,medium high
+83,France,6.0,35.0,Male,US American,Hotel,800,Airplane,500,32 - 37,Europe,North America,6,1300,medium low
+84,Japan,10.0,28.0,Female,Korean,Airbnb,500,Train,300,20 - 28,Asia,Asia,7,800,low
+85,Indonesia,11.0,42.0,Female,Spanish,Luxury stay,1200,Airplane,700,38 +,Asia,Europe,8,1900,medium high
+86,Australia,9.0,45.0,Male,Australian,Hotel,900,Airplane,600,38 +,Asia,Asia,9,1500,medium high
+87,USA,6.0,31.0,Female,US American,Airbnb,700,Car,200,29 - 31,North America,North America,10,900,medium low
+88,UK,11.0,29.0,Male,UK,Hostel,300,Airplane,400,29 - 31,Europe,Europe,11,700,low
+89,UAE,8.0,24.0,Female,Emirati,Hotel,1000,Airplane,800,20 - 28,Middle east,Middle east,1,1800,medium high
+90,Thailand,7.0,26.0,Male,Vietnamese,Airbnb,400,Train,100,20 - 28,Africa,Asia,2,500,low
+91,Italy,11.0,30.0,Female,Italian,Hostel,200,Airplane,350,29 - 31,Europe,Europe,3,550,low
+92,Indonesia,11.0,33.0,Male,Indonesian,Luxury stay,1500,Car,300,32 - 37,Asia,Asia,4,1800,medium high
+93,South Korea,10.0,27.0,Female,Korean,Hotel,800,Train,150,20 - 28,Asia,Asia,5,950,medium low
+94,France,5.0,35.0,Male,US American,Hotel,500,Airplane,800,32 - 37,Europe,North America,6,1300,medium low
+95,Japan,9.0,28.0,Female,Canadian,Airbnb,400,Train,200,20 - 28,Asia,North America,9,600,low
+96,Australia,9.0,45.0,Male,Korean,Hostel,200,Airplane,1200,38 +,Asia,Asia,12,1400,medium low
+97,UK,5.0,37.0,Female,UK,Hotel,600,Airplane,700,32 - 37,Europe,Europe,2,1300,medium low
+98,USA,6.0,50.0,Male,Chinese,Airbnb,800,Car,300,38 +,North America,Asia,5,1100,medium low
+99,Italy,7.0,31.0,Female,Taiwanese,Hotel,700,Airplane,900,29 - 31,Europe,Africa,8,1600,medium high
+100,Thailand,8.0,42.0,Male,Japanese,Hostel,300,Train,100,38 +,Africa,Asia,11,400,low
+101,South Africa,8.0,27.0,Female,Spanish,Airbnb,500,Airplane,1500,20 - 28,Africa,Europe,1,2000,medium high
+102,Brazil,7.0,33.0,Male,Brazilian,Hotel,900,Car,400,32 - 37,South America,South America,4,1300,medium low
+103,Indonesia,6.0,29.0,Female,Korean,Luxury stay,1200,Airplane,1000,29 - 31,Asia,Asia,7,2200,high
+104,Netherlands,7.0,41.0,Male,German,Hotel,600,Train,150,38 +,Europe,Europe,10,750,low
+105,France,5.0,35.0,Male,US American,Hotel,1000,Airplane,800,32 - 37,Europe,North America,5,1800,medium high
+106,Japan,9.0,28.0,Female,Korean,Airbnb,800,Train,500,20 - 28,Asia,Asia,9,1300,medium low
+107,USA,5.0,42.0,Male,Chinese,Hotel,1200,Car,200,38 +,North America,Asia,6,1400,medium low
+108,Indonesia,8.0,30.0,Female,Taiwanese,Luxury stay,1500,Airplane,1200,29 - 31,Asia,Africa,8,2700,high
+109,Australia,9.0,26.0,Male,Canadian,Hostel,300,Airplane,900,20 - 28,Asia,North America,7,1200,medium low
+110,UK,5.0,38.0,Female,UK,Hotel,900,Train,150,38 +,Europe,Europe,6,1050,medium low
+111,Thailand,7.0,45.0,Male,Singapore,Luxury stay,2000,Airplane,700,38 +,Africa,Asia,9,2700,high
+112,Italy,7.0,31.0,Female,Italian,Hotel,1100,Train,250,29 - 31,Europe,Europe,5,1350,medium low
+113,Greece,7.0,27.0,Male,Greece,Airbnb,1000,Bus & other,150,20 - 28,Europe,Europe,7,1150,medium low
+114,UAE,5.0,29.0,Female,Emirati,Hotel,1500,Car,300,29 - 31,Middle east,Middle east,8,1800,medium high
+115,Vietnam,5.0,33.0,Male,Cambodia,Hostel,200,Airplane,500,32 - 37,Asia,Asia,9,700,low
+116,Japan,9.0,32.0,Female,US American,Hotel,1000,Airplane,700,32 - 37,Asia,North America,2,1700,medium high
+117,France,7.0,47.0,Male,Canadian,Hotel,1200,Train,500,38 +,Europe,North America,3,1700,medium high
+118,Australia,11.0,26.0,Female,Chinese,Airbnb,800,Airplane,1000,20 - 28,Asia,Asia,5,1800,medium high
+119,Italy,7.0,38.0,Male,Korean,Hotel,900,Train,400,38 +,Europe,Asia,6,1300,medium low
+120,Indonesia,10.0,29.0,Female,Korean,Hostel,500,Airplane,800,29 - 31,Asia,Asia,7,1300,medium low
+121,Mexico,8.0,41.0,Male,US American,Hotel,1300,Airplane,600,38 +,South America,North America,8,1900,medium high
+122,Greece,10.0,35.0,Female,Korean,Airbnb,700,Airplane,900,32 - 37,Europe,Asia,9,1600,medium high
+123,Japan,8.0,24.0,Male,Korean,Hotel,1200,Airplane,700,20 - 28,Asia,Asia,10,1900,medium high
+124,Australia,10.0,30.0,Female,Chinese,Airbnb,900,Airplane,1000,29 - 31,Asia,Asia,11,1900,medium high
+125,France,8.0,28.0,Male,US American,Hostel,400,Airplane,700,20 - 28,Europe,North America,1,1100,medium low
+126,Indonesia,8.0,33.0,Female,Canadian,Hotel,800,Airplane,800,32 - 37,Asia,North America,2,1600,medium high
+128,France,6.0,35.0,Male,US American,Hotel,5000,Airplane,2500,32 - 37,Europe,North America,5,7500,high
+129,Japan,7.0,28.0,Female,UK,Airbnb,7000,Train,1500,20 - 28,Asia,Europe,5,8500,high
+130,South Africa,9.0,45.0,Male,South African,Hostel,3000,Car,2000,38 +,Africa,Africa,6,5000,high
+131,Australia,6.0,31.0,Female,Australian,Hotel,6000,Airplane,3000,29 - 31,Asia,Asia,6,9000,high
+132,Italy,7.0,42.0,Male,Korean,Airbnb,4000,Train,1500,38 +,Europe,Asia,7,5500,high
+133,USA,7.0,27.0,Female,US American,Hotel,8000,Airplane,2500,20 - 28,North America,North America,7,10500,high
+134,Brazil,9.0,37.0,Male,Brazilian,Hostel,2500,Car,2000,32 - 37,South America,South America,8,4500,high
+135,Canada,6.0,29.0,Female,Canadian,Hotel,5000,Airplane,3000,29 - 31,North America,North America,8,8000,high
+136,Thailand,7.0,34.0,Male,Chinese,Hostel,2000,Train,1000,32 - 37,Africa,Asia,9,3000,high
+137,Spain,7.0,25.0,Female,Spanish,Airbnb,6000,Airplane,2500,20 - 28,Europe,Europe,9,8500,high
+138,New Zealand,7.0,39.0,Male,New Zealander,Hotel,7000,Train,2500,38 +,Asia,Asia,10,9500,high
